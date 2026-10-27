@@ -1,1 +1,1 @@
-tugas java dari prak
+tugas java dari praktikum
